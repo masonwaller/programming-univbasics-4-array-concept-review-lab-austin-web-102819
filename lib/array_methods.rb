@@ -6,7 +6,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
-arrayyy=array.find_max_value
+arrayyy=array.max
 return arrayyy
 end
 
