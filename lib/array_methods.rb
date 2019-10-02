@@ -12,4 +12,6 @@ end
 
 def find_min_value(array)
   # Add your solution here
+  arrayyyy=array.min
+return arrayyyy
 end
