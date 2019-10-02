@@ -6,8 +6,8 @@ end
 
 def find_max_value(array)
   # Add your solution here
-  length=array.length
-  length.times 
+arrayyy=array.find_max_value
+return arrayyy
 end
 
 def find_min_value(array)
